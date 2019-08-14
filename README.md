@@ -1,5 +1,9 @@
 # Bakery Disbursement management / Challenge
-To access the dashboard:
+
+The code is essentially in the directory  /Production
+
+Run the file Production/index.php To access the dashboard: 
+
 your email: admin@admin.com
 password: admin
 
